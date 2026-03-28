@@ -158,7 +158,7 @@ int main(int argc, char** argv)
 
     fclose(file);
 
-    printAVLTree(AVLTree);
+    // printAVLTree(AVLTree);
 
     printf("Загружено %d аэропортов. Система готова к работе.\n\n", count);
 
